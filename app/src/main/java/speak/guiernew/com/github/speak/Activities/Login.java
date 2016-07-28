@@ -1,4 +1,4 @@
-package speak.guiernew.com.github.speak;
+package speak.guiernew.com.github.speak.Activities;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -31,6 +31,8 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import speak.guiernew.com.github.speak.R;
 
 import static android.Manifest.permission.READ_CONTACTS;
 
